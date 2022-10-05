@@ -1,0 +1,118 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap");
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+body {
+    background-color: #02101e;
+    background-size: cover;
+}
+
+nav {
+    background-color: #0d253f;
+    color: #fffafa;
+    width: 100%;
+    height: 4em;
+    text-align: center;
+    margin-bottom: 4em;
+}
+
+a {
+    text-align: center;
+    text-decoration: none;
+    color: #ffffff;
+}
+
+a:hover {
+    color: #ffffff;
+}
+
+.container {
+    text-align: center;
+    width: 50%;
+    background-color: #0d253f;
+    border-radius: 15px;
+    margin-top: 10em;
+    color: white;
+}
+
+.button {
+    margin-top: 1em;
+}
+.btn-success{
+    text-align: center;
+    background-color: #0d253f;
+    border-radius: 20px;
+    color: white;
+    border-color: aquamarine;
+}
+.btn-success:hover{
+    background-color: #0d253f;
+    color: aquamarine;
+}
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap");
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+body {
+    background-color: #02101e;
+    background-size: cover;
+}
+
+nav {
+    background-color: #0d253f;
+    color: #fffafa;
+    width: 100%;
+    height: 4em;
+    text-align: center;
+    margin-bottom: 4em;
+}
+
+a {
+    text-align: center;
+    text-decoration: none;
+    color: #ffffff;
+}
+
+a:hover {
+    color: #ffffff;
+}
+
+.container {
+    text-align: center;
+    width: 50%;
+    background-color: #0d253f;
+    border-radius: 15px;
+    margin-top: 10em;
+    color: white;
+}
+
+.button {
+    margin-top: 1em;
+}
+.btn-success{
+    text-align: center;
+    background-color: #0d253f;
+    border-radius: 20px;
+    color: white;
+    border-color: aquamarine;
+}
+.btn-success:hover{
+    background-color: #0d253f;
+    color: aquamarine;
+}
+.form-select{
+   background-color:aquamarine;
+}
+.form-control{
+    background-color:aquamarine;
+}
